@@ -5,7 +5,6 @@ This is a Node.js application that uses OpenAI's API and a Redis database to cre
 ## Requirements
 
 - Node.js 14.x or later
-- Redis database accessible through a URL
 - OpenAI API key
 - Redis instance running, with the Redisearch module installed.
 
